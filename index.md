@@ -1,6 +1,6 @@
 ## About me
 
-I am a Computer Vision Researcher in Microsoft Mixed Reality, pursuing problems in Semantic Understanding for Hololens. My interests lies in applying geometry to constrain visual perception through physical, geometric and multi-view consistency. Before joining Hololens, I was at Microsoft AI & R where I developed the Multi-People Tracking system for Reality-as-a-Service. In my first years at Microsoft, I have led multiple incubation projects that have converged into various Azure Computer Vision products. My previous stint was as a researcher at SRI International in Princeton, NJ, where I worked on various IARPA funded projects, including the Aladdin project to solve large-scale video understanding. I received my Ph.D. in Computer Science, specializing in Computer Vision and Probabilistic Graphical Models. Throughout my career, I have participated in delivering successful prototypes, won research grants and primary author of over publications and patents.
+I am a Computer Vision Researcher in Microsoft Mixed Reality, pursuing problems in Semantic Understanding for Hololens. My interests lies in applying geometry to constrain visual perception through physical, geometric and multi-view consistency. Before joining Hololens, I was at Microsoft AI & R where I developed the Multi-People Tracking system for Reality-as-a-Service. In my first years at Microsoft, I have led multiple incubation projects that have converged into various Azure Computer Vision products. My previous stint was as a researcher at SRI International in Princeton, NJ, where I worked on various IARPA funded projects, including the Aladdin project to solve large-scale video understanding. I received my Ph.D. in Computer Science, specializing in Computer Vision and Probabilistic Graphical Models. Throughout my career, I have participated in delivering successful prototypes, won research grants and primary author of over 15 publications and patents.
 
 ### First-author Publications
 
@@ -25,20 +25,3 @@ I am a Computer Vision Researcher in Microsoft Mixed Reality, pursuing problems 
 5. Recognizing Entity Interactions in Visual Media, US Patent Application, 2018
 6. 3D Visual Proxemics: Recognizing Human Interactions in 3D From a Single Image, US Patent, 2016
 7. Identifying, Describing, and Sharing Salient Events In Images and Videos, US Patent Application, 2016
-
-
-
-
-xx
-xx
-
-
-
-
-
-
-
-
-
-
-
