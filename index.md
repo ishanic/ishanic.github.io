@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/ishanic/ishanic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Computer Vision Researcher in Microsoft Mixed Reality, pursuing problems in Semantic Understanding for Hololens. My interests lies in applying geometry to constrain visual perception through physical, geometric and multi-view consistency. Before joining Hololens, I was at Microsoft AI & R where I developed the Multi-People Tracking system for Reality-as-a-Service. I have led multiple incubation projects that have converged into various Azure Computer Vision products. My previous stint was as a researcher at SRI International in Princeton, NJ, where I worked on various IARPA funded projects. I received my Ph.D. in Computer Science, specializing in Computer Vision and Probabilistic Graphical Models. Throughout my career, I have participated in delivering successful prototypes, won research grants and primary author of over 15 publications and patents.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ishanic/ishanic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
